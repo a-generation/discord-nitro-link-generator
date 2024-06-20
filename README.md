@@ -8,8 +8,8 @@ This script generates links for Discord Nitro subscriptions. However, it's impor
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/discord-nitro-subscription-link-generator.git
-   cd discord-nitro-subscription-link-generator
+   git clone https://github.com/a-generation/discord-nitro-link-generator.git
+   cd discord-nitro-link-generator
    ```
 
 2. Install dependencies (requests library):
