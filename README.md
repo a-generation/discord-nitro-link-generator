@@ -27,6 +27,5 @@ This script generates links for Discord Nitro subscriptions. However, it's impor
 ### Notes
 
 - This script generates links with an extremely low probability of success.
-- Use this script responsibly and at your own risk.
-- Ensure you comply with Discord's terms of service and guidelines.
+- Use this script responsibly and at your own risk.- Ensure you comply with Discord's terms of service and guidelines.
 
